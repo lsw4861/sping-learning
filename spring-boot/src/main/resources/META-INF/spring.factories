@@ -1,0 +1,2 @@
+org.springframework.context.ApplicationContextInitializer=com.liang.boot.Initializer.ContextInitializer
+org.springframework.context.ApplicationListener=com.liang.boot.listener.CustomApplicationListener
